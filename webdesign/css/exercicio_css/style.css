@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(100, 43, 3);
+    font-family: monospace;
+}
+
+
+.classe{
+    color: rgb(117, 4, 117);
+}
+#id

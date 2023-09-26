@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+.main{
+    display: grid;
+    grid-template-columns: 6fr 8fr;
+  }
+.amarelo{
+    background-color: gold;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+  display: inline;
+}
+.ai{
+  justify-content: center;
+  align-content: center;
+}

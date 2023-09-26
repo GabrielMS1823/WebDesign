@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    background-color: #d5bff7;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 15px;
+    font-weight: 200;
+}
+h2{
+    font-size: 38px;
+    padding: 2px;
+}
