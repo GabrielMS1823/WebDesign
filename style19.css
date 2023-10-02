@@ -12,6 +12,7 @@ body{
 #login{
     background-color: white;
     border: 2px solid black;
+    border-radius: 5px;
 }
 #login a{
     text-align: center;
@@ -66,6 +67,7 @@ a{
 .black{
     color: white;
     background-color: black;
+    padding: 50px;
 }
 .black a{
     color: white;
@@ -88,4 +90,10 @@ a{
     display: grid;
     grid-template-columns: 1fr 2fr;
     padding: 100px;
+}
+/*p{
+    vertical-align: auto;
+}*/
+.sal{
+    padding: 40px;
 }
